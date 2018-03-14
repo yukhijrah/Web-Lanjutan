@@ -2,7 +2,6 @@
 <script src="bootstrap4.0.0/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 <!------ Include the above in your HEAD tag ---------->
-
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -68,11 +67,12 @@
 			
 			<div class="basic-information"> 
 				<h3>Email me!</h3>
-				<p><a href="isham.culesindo@gmail.com">isham.culesindo@gmail.com</a></p>
+				<p>isham.culesindo@gmail.com</p>
 			</div>
 		</div>
 		<div class="main">
 			<div class="main-info">
+				<br>
 				<br>
 				<h3>CV</h3>
 				<br>
@@ -89,10 +89,16 @@
 		<div class="main">
 			<div class="main-info">
 				<br>
+				<br>
+				<br>
+				<br>
 				<h3>Organization Experiences</h3>
+				<!--<blockquote>•	Anggota PASKIBRA SMA Plus PGRI Cibinong</blockquote>-->
 				<blockquote>•	Ketua Mandarin Club SMA Plus PGRI Cibinong (2013 - 2015)</blockquote>
 				<blockquote>•	Anggota KOPASUS IT (Kelompok Binaan Khusus Teknologi Informasi) SMA Plus PGRI Cibinong (2014 - 2016)</blockquote>
 				<blockquote>•	Staff Adkesma BEM STTNF 2017</blockquote>
+				<br>
+				<br>
 				<br>
 				<h3>Achievement</h3>
 				<blockquote>•	Finalis QUESSCOMP Technology Information di Bakrie University (2014)</blockquote>

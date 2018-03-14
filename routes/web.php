@@ -22,3 +22,12 @@ Route::get('/profile', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
+
+Route::get("teman/{name}/{tim}", function ($name,$tim) {
+    return 'hello Teman '.$name.
+    		'Tim '.$tim;
+});
+
+Route::get("home/about",'HomeController@about');
+
+Route::resource('brg','BrgController');
